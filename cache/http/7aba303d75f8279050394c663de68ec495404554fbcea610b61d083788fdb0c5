@@ -1,0 +1,10 @@
+«V—ñ¸A=ãŒ½Ò—DÚù%2×‘°**)·HTTP/2.0 200 OK
+Content-Length: 990
+Audit-Id: 918b8456-b711-4a1e-a574-534ddb1206fb
+Cache-Control: no-cache, private
+Content-Type: application/json
+Date: Sat, 26 Nov 2022 12:15:31 GMT
+X-Kubernetes-Pf-Flowschema-Uid: 81a641dd-2f63-43e8-b452-2dd327316829
+X-Kubernetes-Pf-Prioritylevel-Uid: 3f768468-ac78-4ceb-b371-d11e82f59b2e
+
+{"kind":"APIResourceList","apiVersion":"v1","groupVersion":"networking.k8s.io/v1","resources":[{"name":"ingressclasses","singularName":"","namespaced":false,"kind":"IngressClass","verbs":["create","delete","deletecollection","get","list","patch","update","watch"],"storageVersionHash":"l/iqIbDgFyQ="},{"name":"ingresses","singularName":"","namespaced":true,"kind":"Ingress","verbs":["create","delete","deletecollection","get","list","patch","update","watch"],"shortNames":["ing"],"storageVersionHash":"39NQlfNR+bo="},{"name":"ingresses/status","singularName":"","namespaced":true,"kind":"Ingress","verbs":["get","patch","update"]},{"name":"networkpolicies","singularName":"","namespaced":true,"kind":"NetworkPolicy","verbs":["create","delete","deletecollection","get","list","patch","update","watch"],"shortNames":["netpol"],"storageVersionHash":"YpfwF18m1G8="},{"name":"networkpolicies/status","singularName":"","namespaced":true,"kind":"NetworkPolicy","verbs":["get","patch","update"]}]}

@@ -1,0 +1,10 @@
+HTTP/2.0 200 OK
+Content-Length: 303
+Audit-Id: a77a7c4d-388b-4b91-a278-7aef2d497ea7
+Cache-Control: no-cache, private
+Content-Type: application/json
+Date: Fri, 18 Nov 2022 13:43:32 GMT
+X-Kubernetes-Pf-Flowschema-Uid: 81a641dd-2f63-43e8-b452-2dd327316829
+X-Kubernetes-Pf-Prioritylevel-Uid: 3f768468-ac78-4ceb-b371-d11e82f59b2e
+
+{"kind":"APIResourceList","apiVersion":"v1","groupVersion":"events.k8s.io/v1","resources":[{"name":"events","singularName":"","namespaced":true,"kind":"Event","verbs":["create","delete","deletecollection","get","list","patch","update","watch"],"shortNames":["ev"],"storageVersionHash":"r2yiGXH7wu8="}]}

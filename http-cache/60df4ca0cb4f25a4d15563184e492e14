@@ -1,0 +1,10 @@
+HTTP/2.0 200 OK
+Content-Length: 289
+Audit-Id: b05803ae-e6e4-4065-82e1-54dc11ea3e8d
+Cache-Control: no-cache, private
+Content-Type: application/json
+Date: Fri, 18 Nov 2022 13:43:32 GMT
+X-Kubernetes-Pf-Flowschema-Uid: 81a641dd-2f63-43e8-b452-2dd327316829
+X-Kubernetes-Pf-Prioritylevel-Uid: 3f768468-ac78-4ceb-b371-d11e82f59b2e
+
+{"kind":"APIResourceList","apiVersion":"v1","groupVersion":"coordination.k8s.io/v1","resources":[{"name":"leases","singularName":"","namespaced":true,"kind":"Lease","verbs":["create","delete","deletecollection","get","list","patch","update","watch"],"storageVersionHash":"gqkMMb/YqFM="}]}
